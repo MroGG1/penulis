@@ -20,12 +20,20 @@ I'm an Informatics Engineering student with a strong interest in web development
 
  
 ### 📊 Github Statistics
-<p align="left">
-<a href="https://github.com/MroGG1">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MroGG1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MroGG1&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  <a href="https://github.com/MroGG1">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MroGG1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="MroGG1's GitHub Stats" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/MroGG1">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MroGG1&layout=compact&langs_count=8&theme=tokyonight" alt="MroGG1's Top Languages" />
+  </a>
+</td>
+</tr>
+</table>
 
 
 
